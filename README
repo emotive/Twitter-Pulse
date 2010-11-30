@@ -1,0 +1,15 @@
+TWITTER PULSE
+----------------------------------------------------------
+This tool will monitor recent tweets and summarize their 
+mood by positive, neutral or negative rankings.
+
+
+Installation
+
+1) Upload index.php anywhere on your webserver.
+2) You can edit the default terms in the file.
+
+
+Copyright (C) 2010 - emotive, llc
+Author: Matt Briney (matthew@emotivellc.com)
+Licensed under the GPL
